@@ -1,0 +1,22 @@
+{
+  "wheel_id": 844,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-109",
+  "project": "bathroom-tilers-adelaide-materials-compared-0a8d5add67d195487dd",
+  "parent_t1_ref": "adelaidetilingwaterproofing-154",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "bathroom tilers adelaide materials compared",
+  "intended_url": "https://sitesau.github.io/adelaidetilingwaterproofing-109/",
+  "tier": "T2",
+  "writeback_nonce": "2a528ffc2429487d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/bathroom-tilers-adelaide-a697eb317a8611af8e33cc1e8ece8430c2667c/",
+      "anchor": "https://sites-e470-2.web.app/bathroom-tilers-adelaide-a697eb317a8611af8e33cc1e8ece8430c2667c/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
